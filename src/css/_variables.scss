@@ -1,0 +1,24 @@
+
+/***********************************
+
+Grid
+
+************************************/
+$item-size: 220px;
+$col-gutter: 10px;
+$vp-gutter: $col-gutter;
+$mobile-cols: 1;
+$tablet-cols:2;
+$desktop-cols: 3;
+$scrollbar-size: 20px;
+
+
+/***********************************
+
+Media query break points
+
+************************************/
+
+$start-width-tablet: 481px;
+$start-width-desktop: 769x;
+$start-width-large-desktop: 1025px;

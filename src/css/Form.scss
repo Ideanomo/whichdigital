@@ -1,0 +1,22 @@
+.form {
+  padding: 10px;
+  display: flex;
+  color: #fff;
+  justify-content: center;
+
+  input[type=text] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+    &:focus {
+      border: 3px solid #555;
+    }
+  }
+
+  button {
+    margin: 8px 10px;
+    padding: 11px;
+  }
+}
