@@ -1,3 +1,12 @@
+# Tools used
+- Create React App
+
+# Alternative solutions
+- Make it into a game with different levels, graphics and learning progression functionality
+- In addition to helping a child understand multiplication, there could be help for division, fractions, and other maths tools.
+- Use arrow keys to move through grid
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
